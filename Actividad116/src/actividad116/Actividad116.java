@@ -19,7 +19,7 @@ public class Actividad116 {
         // TODO code application logic here
         //Rodica Emanuela Pop
         //Vamos a calcular cuantas horas, minutos y segundos hay en el numero de
-        //segundos que da el usuario
+        //segundos que da el usuariollll
         
         int horas, minutos, segundos, datoSegundosTotales;
         
